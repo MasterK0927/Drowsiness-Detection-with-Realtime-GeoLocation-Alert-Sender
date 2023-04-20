@@ -80,5 +80,5 @@ Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML pr
 <a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="icons/linkedin.webp" align="left" height="60" width="60" alt="LinkedIn"></a>
 <a href="https://www.github.com/MasterK0927"><img src="icons/github.svg" align="left" height="65" width="60" alt="Github"></a>
 
-
+<h2 align="center"> Appreciate my work by <img src="icons/star.gif" alt=star> this repository </h2>
 
