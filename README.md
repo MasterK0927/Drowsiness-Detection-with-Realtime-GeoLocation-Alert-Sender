@@ -55,9 +55,9 @@ This software/ML model works as follows:
 
 
 # Credits
-https://opencv.org/
-https://www.tensorflow.org/
-https://www.pygame.org/
+1. https://opencv.org/
+2. https://www.tensorflow.org/
+3. https://www.pygame.org/
 
 # Contributing
 You can help by contributing in the making of GUI interface for the Project, awaring me about any bug you may encounter, last but not the least you can help me in optimising the program to boost its run speed.
