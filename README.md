@@ -22,18 +22,6 @@ The device consists of the following software components:
 ```python
     pip install -r requirements.txt
 ```
-In this example, the fenced code block contains Python code. The data-clipboard-target attribute on the button specifies the ID of the code block that should be copied when the button is clicked. The display:none style attribute on the div element containing the code block hides it from view until the button is clicked.
-
-The script at the bottom of the code adds the clipboard.js library and initializes a new ClipboardJS object with the class btn to make the copy button work.
-
-You can customize the code block language, code content, and button text as desired.
-
-
-
-
-
-
-
 3. Download Dataset from here DATASET(link) : https://drive.google.com/drive/folders/12W9DmSf1rk5gZCQvihy1IWFAVoFMrkSh and move it in deskop/drowsiness/models.
 
 # Usage
