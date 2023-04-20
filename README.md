@@ -49,6 +49,14 @@ This software/ML model works as follows:
 3. Cureently alert system contact can be changed in the code only, there is no GUI interface for it as of now. It's under construction.
 4. Realtime GPS location is precise upto 5KM range.
 
+# Tech Stack Used
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+<a><img src="icons/python" aign="left" height="60" width="60" alt="LinkedIn"></a>
+
 # Demo
 1. Demo with PPT and Website integration (YT):  https://youtu.be/DWYiaC8kQsw
 2. Demo without PPT and Website integration (G-Drive): 
