@@ -63,7 +63,7 @@ This software/ML model works as follows:
 
 # Demo
 1. Demo with PPT and Website integration (YT):  https://youtu.be/DWYiaC8kQsw
-2. Demo without PPT and Website integration (G-Drive): 
+2. Demo without PPT and Website integration (G-Drive): https://drive.google.com/file/d/13nOD6Azd_wjH1L9iOZJcoYGbB3xYqz3v/view?usp=drivesdk
 
 
 # Credits
