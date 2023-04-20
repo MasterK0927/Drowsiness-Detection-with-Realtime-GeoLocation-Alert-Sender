@@ -65,6 +65,7 @@ You can help by contributing in the making of GUI interface for the Project, awa
 # Developer Credit
 Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML project is developed by him in 2019.
 
-[![LinkedIn](linkedin.webp)](https://www.linkedin.com/in/keshav-agarwal-0927)
+<a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="linkedin.webp" align="left" height="30" width="30" alt="LinkedIn"></a>
+
 
 
