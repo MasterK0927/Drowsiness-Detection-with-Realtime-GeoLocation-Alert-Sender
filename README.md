@@ -65,7 +65,8 @@ You can help by contributing in the making of GUI interface for the Project, awa
 # Developer Credit
 Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML project is developed by him in 2019.
 
-<a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="linkedin.webp" align="left" height="100" width="100" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="icons/linkedin.webp" align="left" height="100" width="100" alt="LinkedIn"></a>
+<a href="https://equalleaks.com/author/keshav-agarwal/"><img src="icons/equalleaks.webp" align="left" height="100" width="100" alt="Articles"></a>
 
 
 
