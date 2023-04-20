@@ -50,12 +50,12 @@ This software/ML model works as follows:
 4. Realtime GPS location is precise upto 5KM range.
 
 # Tech Stack Used
-<a><img src="icons/python.webp" aign="left" height="60" width="60" alt="python"></a>&nbsp;
-<a><img src="icons/tensorflow-2.png" aign="left" height="60" width="60" alt="tensorflow"></a>&nbsp;
-<a><img src="icons/OpenCV.webp" aign="left" height="60" width="60" alt="openCV"></a>&nbsp;
-<a><img src="icons/js.svg" aign="left" height="60" width="60" alt="js"></a>&nbsp;
-<a><img src="icons/bash2.png." aign="left" height="60" width="60" alt="bash2"></a>&nbsp;
-<a><img src="icons/html5.png" aign="left" height="60" width="60" alt="html5"></a>&nbsp;
+<a><img src="icons/python.webp" aign="left" height="60" width="60" alt="python"></a>&nbsp;&nbsp;&nbsp;
+<a><img src="icons/tensorflow-2.png" aign="left" height="60" width="60" alt="tensorflow"></a>&nbsp;&nbsp;&nbsp;
+<a><img src="icons/OpenCV.webp" aign="left" height="60" width="60" alt="openCV"></a>&nbsp;&nbsp;&nbsp;
+<a><img src="icons/js.svg" aign="left" height="60" width="60" alt="js"></a>&nbsp;&nbsp;&nbsp;
+<a><img src="icons/bash2.png" aign="left" height="60" width="60" alt="bash2"></a>&nbsp;&nbsp;&nbsp;
+<a><img src="icons/html5.png" aign="left" height="60" width="60" alt="html5"></a>&nbsp;&nbsp;&nbsp;
 <a><img src="icons/css3.png" aign="left" height="60" width="60" alt="css3"></a>
 
 # Demo
