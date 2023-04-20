@@ -1,4 +1,4 @@
-# Interactive README.md
+# Drowsiness-Detection-with-Realtime-GeoLocation-Alert-Sender
 This is a Python-based project that uses OpenCV and dlib libraries to detect the drowsiness of a driver in real-time. It can detect if the driver's eyes are closed for a certain amount of time, which could indicate that the driver is drowsy and may fall asleep while driving. Drowsy driving is a major cause of road accidents, especially for long-distance drivers. To address this issue, we have developed a device that can detect a driver's sleepy eyes and send an alert to the driver while also slowing down the vehicle. The device is a combination of hardware and software components, which work together to detect the driver's drowsiness and take appropriate actions to prevent accidents.
 
 # Description
@@ -50,14 +50,9 @@ This software/ML model works as follows:
 4. Realtime GPS location is precise upto 5KM range.
 
 # Demo
-Demo with PPT and Website integration (YT):  https://youtu.be/DWYiaC8kQsw
-Demo without PPT and Website integration (G-Drive): 
+1. Demo with PPT and Website integration (YT):  https://youtu.be/DWYiaC8kQsw
+2. Demo without PPT and Website integration (G-Drive): 
 
-<html>
-  <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/DWYiaC8kQsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  </body>
-  </html>
 
 # Credits
 https://opencv.org/
