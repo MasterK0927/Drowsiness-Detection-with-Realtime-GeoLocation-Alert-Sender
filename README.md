@@ -67,7 +67,7 @@ Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML pr
 
 <html>
   <body>
-    <a href="https://www.linkedin.com/in/keshav-agarwal-0927" target="_blank"><i class="fab fa-linkedin"></i> Connect with me on LinkedIn</a>
+    <a href="https://www.linkedin.com/in/keshav-agarwal-0927" target="_blank"><img src="https://unsplash.com/photos/9Zjd7PE_FRM"></a>
   </body>
 </html>
 
