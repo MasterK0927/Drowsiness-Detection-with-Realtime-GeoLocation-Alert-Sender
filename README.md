@@ -20,27 +20,8 @@ The device consists of the following software components:
 1. Clone the repository.
 2. Install the required libraries by running pip install -r requirements.txt in your terminal or command prompt.
 ```python
-def hello_world():
-    print("pip install -r requirements.txt")
-
-hello_world()
+    pip install -r requirements.txt
 ```
-
-<button class="btn" data-clipboard-target="#code">Copy code</button>
-
-<div id="code" style="display:none">
-```python
-def hello_world():
-    print("pip install -r requirements.txt")
-
-hello_world()
-```
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-<script>
-  var clipboard = new ClipboardJS('.btn');
-</script>
 In this example, the fenced code block contains Python code. The data-clipboard-target attribute on the button specifies the ID of the code block that should be copied when the button is clicked. The display:none style attribute on the div element containing the code block hides it from view until the button is clicked.
 
 The script at the bottom of the code adds the clipboard.js library and initializes a new ClipboardJS object with the class btn to make the copy button work.
