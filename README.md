@@ -75,7 +75,7 @@ This software/ML model works as follows:
 You can help by contributing in the making of GUI interface for the Project, awaring me about any bug you may encounter, last but not the least you can help me in optimising the program to boost its run speed.
 
 # Developer Credit
-Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML project is developed by him in 2019.
+Keshav Agarwal aka MasterK is the sole owner of this repositiory, and this ML project is developed by him in 2019 and updated in 2023.
 
 <a href="https://www.linkedin.com/in/keshav-agarwal-0927"><img src="icons/linkedin.webp" align="left" height="60" width="60" alt="LinkedIn"></a>
 <a href="https://www.github.com/MasterK0927"><img src="icons/github.svg" align="left" height="65" width="60" alt="Github"></a>
